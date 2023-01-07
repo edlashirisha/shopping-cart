@@ -1,2 +1,2 @@
 # shopping-cart
-design
+design shopping cart website
